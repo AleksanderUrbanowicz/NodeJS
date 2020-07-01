@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/AleksanderUrbanowicz/NodeJS/issues"
   },
-  "homepage": "https://github.com/AleksanderUrbanowicz/NodeJS#readme"
+  "homepage": "https://github.com/AleksanderUrbanowicz/NodeJS#readme",
+  "dependencies": {
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
