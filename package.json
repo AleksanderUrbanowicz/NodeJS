@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksanderUrbanowicz/NodeJS.git"
+  },
+  "author": "Aleksander Urbanowicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksanderUrbanowicz/NodeJS/issues"
+  },
+  "homepage": "https://github.com/AleksanderUrbanowicz/NodeJS#readme"
+}
